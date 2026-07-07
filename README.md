@@ -20,3 +20,7 @@
 <img width="1239" height="225" alt="image" src="https://github.com/user-attachments/assets/cf672a4e-3e8a-4628-a19a-28d5d7b3787b" />
 
 [haproxy.cfg](klasterizatsiya/task_2/haproxy.cfg)
+
+<img width="845" height="550" alt="image" src="https://github.com/user-attachments/assets/6865bac1-13d4-4e92-a835-134b68c860b6" />
+
+<img width="543" height="135" alt="image" src="https://github.com/user-attachments/assets/03710767-f71d-4c56-8f77-f19de9a7d85a" />
