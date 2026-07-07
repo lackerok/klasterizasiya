@@ -5,7 +5,7 @@
 
 <img width="1347" height="245" alt="image" src="https://github.com/user-attachments/assets/c394e6ca-967f-40fb-8c61-4e844740a2bb" />
 
-[haproxy.cfg](klasterizatsiya/task 1/haproxy.cfg)
+[haproxy.cfg](klasterizatsiya/task_1/haproxy.cfg)
 
 # Задание 2
 
@@ -19,4 +19,4 @@
 
 <img width="1239" height="225" alt="image" src="https://github.com/user-attachments/assets/cf672a4e-3e8a-4628-a19a-28d5d7b3787b" />
 
-[haproxy.cfg](klasterizatsiya/task 2)
+[haproxy.cfg](klasterizatsiya/task_2/haproxy.cfg)
